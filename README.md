@@ -1,42 +1,46 @@
 **DATA TABEL**
-Tabel Produksi:
-No	Barang	Jumlah Produksi
-1	Barang A	100
-2	Barang B	150
-3	Barang C	200
-4	Barang D	180
-5	Barang E	220
-6	Barang F	120
-7	Barang G	90
-8	Barang H	210
-9	Barang I	160
-10	Barang J	190
 
-Tabel Penjualan:
-No	Barang	Jumlah Penjualan
-1	Barang A	80
-2	Barang B	120
-3	Barang C	150
-4	Barang D	100
-5	Barang E	180
-6	Barang F	70
-7	Barang G	60
-8	Barang H	200
-9	Barang I	130
-10	Barang J	170
+**Tabel Produksi:**
+| No  | Barang        | Jumlah Produksi |
+|-----|---------------|-----------------|
+| 1   | Barang A      | 100             |
+| 2   | Barang B      | 150             |
+| 3   | Barang C      | 200             |
+| 4   | Barang D      | 180             |
+| 5   | Barang E      | 220             |
+| 6   | Barang F      | 120             |
+| 7   | Barang G      | 90              |
+| 8   | Barang H      | 210             |
+| 9   | Barang I      | 160             |
+| 10  | Barang J      | 190             |
 
-Tabel Persediaan:
-No	Barang	Jumlah Persediaan
-1	Barang A	20
-2	Barang B	30
-3	Barang C	50
-4	Barang D	80
-5	Barang E	40
-6	Barang F	50
-7	Barang G	30
-8	Barang H	10
-9	Barang I	30
-10	Barang J	20
+**Tabel Penjualan:**
+| No  | Barang        | Jumlah Penjualan |
+|-----|---------------|------------------|
+| 1   | Barang A      | 80               |
+| 2   | Barang B      | 120              |
+| 3   | Barang C      | 150              |
+| 4   | Barang D      | 100              |
+| 5   | Barang E      | 180              |
+| 6   | Barang F      | 70               |
+| 7   | Barang G      | 60               |
+| 8   | Barang H      | 200              |
+| 9   | Barang I      | 130              |
+| 10  | Barang J      | 170              |
+
+**Tabel Persediaan:**
+| No  | Barang        | Jumlah Persediaan |
+|-----|---------------|-------------------|
+| 1   | Barang A      | 20                |
+| 2   | Barang B      | 30                |
+| 3   | Barang C      | 50                |
+| 4   | Barang D      | 80                |
+| 5   | Barang E      | 40                |
+| 6   | Barang F      | 50                |
+| 7   | Barang G      | 30                |
+| 8   | Barang H      | 10                |
+| 9   | Barang I      | 30                |
+| 10  | Barang J      | 20                |
 
 
 **LANGKAH-LANGKAH :**
